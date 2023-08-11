@@ -21,7 +21,7 @@ from selenium.common.exceptions import TimeoutException, NoSuchElementException
 
 from random import randint
 
-YGGTORRENT_TLD = "lol"
+YGGTORRENT_TLD = "wtf"
 
 YGGTORRENT_BASE_URL = f"https://www6.yggtorrent.{YGGTORRENT_TLD}"
 
